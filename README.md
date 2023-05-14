@@ -2,14 +2,13 @@
 # DAVE(1)                   User Manuals                   DAVE(1)
 
 ## NAME
-dave - DevOps engineer hailing from Lithuania
+dave - DevOps engineer from Lithuania
 
 ## SYNOPSIS
 dave [skills] [contact]
 
 ## DESCRIPTION
-Dave is a DevOps engineer with interest in automation, tooling, DIY tech, lean and open standards and protocols.
-Adept in Linux, containers, and networks.
+DevOps engineer working with automation, dev tooling, DIY tech.
 
 ## SKILLS
 * sys_admin
